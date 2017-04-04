@@ -49,3 +49,5 @@ function isAdult(age) {
 
 a.filter(isAdult)
 a.filter(function(age){ return age >= 18})
+
+var d = {}
